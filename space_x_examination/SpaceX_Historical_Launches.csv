@@ -1,0 +1,84 @@
+flight_number,launch_year,launch_date,launch_success,times_flown,payload_mass,periapsis,apoapsis,inclination,orbital_period,reused,landing_intent,land_success,site_name
+
+
+
+
+
+6,2010,2010-06-04T18:45:00.000Z,True,1,None,235.945,276.701,34.5005,89.632,False,False,None,Cape Canaveral Air Force Station Space Launch Complex 40
+7,2010,2010-12-08T15:43:00.000Z,True,1,None,279.375,308.481,34.5447,90.396,False,False,None,Cape Canaveral Air Force Station Space Launch Complex 40
+8,2012,2012-05-22T07:44:00.000Z,True,1,525,294.646,372.452,51.6726,91.202,False,False,None,Cape Canaveral Air Force Station Space Launch Complex 40
+9,2012,2012-10-08T00:35:00.000Z,True,1,400,203.764,326.293,51.6539,89.809,False,False,None,Cape Canaveral Air Force Station Space Launch Complex 40
+10,2013,2013-03-01T19:10:00.000Z,True,1,677,203.274,322.036,51.6797,89.761,False,False,None,Cape Canaveral Air Force Station Space Launch Complex 40
+11,2013,2013-09-29T16:00:00.000Z,True,1,500,320.752,1273.913,80.9702,100.817,False,True,False,Vandenberg Air Force Base Space Launch Complex 4E
+12,2013,2013-12-03T22:41:00.000Z,True,1,3170,35780.384,35793.742,0.0096,1436.12,False,False,None,Cape Canaveral Air Force Station Space Launch Complex 40
+13,2014,2014-01-06T18:06:00.000Z,True,1,3325,35771.337,35801.19,0.0882,1436.079,False,False,None,Cape Canaveral Air Force Station Space Launch Complex 40
+14,2014,2014-04-18T19:25:00.000Z,True,1,2296,313.486,332.006,51.6429,90.982,False,True,True,Cape Canaveral Air Force Station Space Launch Complex 40
+15,2014,2014-07-14T15:15:00.000Z,True,1,1316,202.633,323.117,51.6528,89.765,False,True,True,Cape Canaveral Air Force Station Space Launch Complex 40
+16,2014,2014-08-05T08:00:00.000Z,True,1,4535,35777.469,35796.207,0.0065,1436.109,False,False,None,Cape Canaveral Air Force Station Space Launch Complex 40
+17,2014,2014-09-07T05:00:00.000Z,True,1,4428,35784.067,35789.447,0.0184,1436.105,False,False,None,Cape Canaveral Air Force Station Space Launch Complex 40
+18,2014,2014-09-21T05:52:00.000Z,True,1,2216,203.334,354.971,51.6518,90.095,False,True,False,Cape Canaveral Air Force Station Space Launch Complex 40
+19,2015,2015-01-10T09:47:00.000Z,True,1,2395,206.049,351.484,51.6369,90.088,False,True,False,Cape Canaveral Air Force Station Space Launch Complex 40
+20,2015,2015-02-11T23:03:00.000Z,True,1,570,None,None,None,None,False,True,True,Cape Canaveral Air Force Station Space Launch Complex 40
+21,2015,2015-03-02T03:50:00.000Z,True,1,1954,35777.084,35795.974,0.0101,1436.093,False,False,None,Cape Canaveral Air Force Station Space Launch Complex 40
+22,2015,2015-04-14T20:10:00.000Z,True,1,1898,205.548,360.711,51.6488,90.176,False,True,False,Cape Canaveral Air Force Station Space Launch Complex 40
+23,2015,2015-04-27T23:03:00.000Z,True,1,4707,35774.791,35797.256,0.0066,1436.067,False,False,None,Cape Canaveral Air Force Station Space Launch Complex 40
+24,2015,2015-06-28T14:21:00.000Z,False,1,2477,None,None,51.6,None,False,True,None,Cape Canaveral Air Force Station Space Launch Complex 40
+25,2015,2015-12-22T01:29:00.000Z,True,1,2034,708.321,711.903,47.0064,98.984,False,True,True,Cape Canaveral Air Force Station Space Launch Complex 40
+26,2016,2016-01-17T15:42:00.000Z,True,1,553,1331.91,1343.552,66.0386,112.418,False,True,False,Vandenberg Air Force Base Space Launch Complex 4E
+27,2016,2016-03-04T23:35:00.000Z,True,1,5271,35781.611,35791.714,0.019,1436.1,False,True,False,Cape Canaveral Air Force Station Space Launch Complex 40
+28,2016,2016-04-08T20:43:00.000Z,True,1,3136,209.37,353.802,51.6569,90.145,False,True,True,Cape Canaveral Air Force Station Space Launch Complex 40
+29,2016,2016-05-06T05:21:00.000Z,True,1,4696,35778.863,35794.591,0.0065,1436.103,False,True,True,Cape Canaveral Air Force Station Space Launch Complex 40
+30,2016,2016-05-27T21:39:00.000Z,True,1,3100,35785.162,35788.392,0.065,1436.106,False,True,True,Cape Canaveral Air Force Station Space Launch Complex 40
+31,2016,2016-06-15T14:29:00.000Z,True,1,1800,35777.658,35795.493,0.0165,1436.095,False,True,False,Cape Canaveral Air Force Station Space Launch Complex 40
+32,2016,2016-07-18T04:45:00.000Z,True,1,2257,204.214,355.504,51.6593,90.11,False,True,True,Cape Canaveral Air Force Station Space Launch Complex 40
+33,2016,2016-08-14T05:26:00.000Z,True,1,4600,35768.431,35806.102,0.052,1436.131,False,True,True,Cape Canaveral Air Force Station Space Launch Complex 40
+34,2016,2016-09-01T13:07:00.000Z,False,1,5500,35785,35800,None,None,False,True,None,Cape Canaveral Air Force Station Space Launch Complex 40
+35,2017,2017-01-14T17:54:00.000Z,True,1,9600,776.432,778.908,86.4014,100.403,False,True,True,Vandenberg Air Force Base Space Launch Complex 4E
+36,2017,2017-02-19T14:39:00.000Z,True,1,2490,202.334,356.602,51.632,90.102,False,True,True,Kennedy Space Center Historic Launch Complex 39A
+37,2017,2017-03-16T06:00:00.000Z,True,1,5600,35777.428,35795.702,0.0183,1436.095,False,False,None,Kennedy Space Center Historic Launch Complex 39A
+38,2017,2017-03-30T22:27:00.000Z,True,2,5300,35775.369,35797.336,0.0135,1436.084,True,True,True,Kennedy Space Center Historic Launch Complex 39A
+39,2017,2017-05-01T11:15:00.000Z,True,1,None,None,None,50,None,False,True,True,Kennedy Space Center Historic Launch Complex 39A
+40,2017,2017-05-15T23:21:00.000Z,True,1,6070,35785.424,35787.667,0.0181,1436.094,False,False,None,Kennedy Space Center Historic Launch Complex 39A
+41,2017,2017-06-03T21:07:00.000Z,True,1,2708,204.35,355.307,51.639,90.109,False,True,True,Kennedy Space Center Historic Launch Complex 39A
+42,2017,2017-06-23T19:10:00.000Z,True,2,3669,35774.694,35797.657,0.0068,1436.075,True,True,True,Kennedy Space Center Historic Launch Complex 39A
+43,2017,2017-06-25T20:25:00.000Z,True,1,9600,776.03,779.316,86.3982,100.403,False,True,True,Vandenberg Air Force Base Space Launch Complex 4E
+44,2017,2017-07-05T23:35:00.000Z,True,1,6761,35779.039,35793.526,0.019,1436.08,False,False,None,Kennedy Space Center Historic Launch Complex 39A
+45,2017,2017-08-14T16:31:00.000Z,True,1,2910,202.59,357.938,51.6336,90.118,False,True,True,Kennedy Space Center Historic Launch Complex 39A
+46,2017,2017-08-24T18:50:00.000Z,True,1,475,716.099,729.691,98.3203,99.252,False,True,True,Vandenberg Air Force Base Space Launch Complex 4E
+47,2017,2017-09-07T13:50:00.000Z,True,1,4990,None,None,54,None,False,True,True,Kennedy Space Center Historic Launch Complex 39A
+48,2017,2017-10-09T12:37:00.000Z,True,1,9600,775.893,779.457,86.3936,100.403,False,True,True,Vandenberg Air Force Base Space Launch Complex 4E
+49,2017,2017-10-11T22:53:00.000Z,True,2,5200,35775.717,35797.145,0.0299,1436.088,True,True,True,Kennedy Space Center Historic Launch Complex 39A
+50,2017,2017-10-30T19:34:00.000Z,True,1,3700,35778.204,35794.673,0.0189,1436.088,False,True,True,Kennedy Space Center Historic Launch Complex 39A
+51,2017,2017-12-15T15:36:00.000Z,True,2,2205,203.576,355.751,51.6387,90.106,True,True,True,Cape Canaveral Air Force Station Space Launch Complex 40
+52,2017,2017-12-23T01:27:23.000Z,True,2,9600,776.255,779.093,86.3975,100.403,True,True,True,Vandenberg Air Force Base Space Launch Complex 4E
+53,2018,2018-01-08T01:00:00.000Z,True,1,None,None,None,51,None,False,True,True,Cape Canaveral Air Force Station Space Launch Complex 40
+54,2018,2018-01-31T21:25:00.000Z,True,2,4230,None,None,None,None,True,True,True,Cape Canaveral Air Force Station Space Launch Complex 40
+
+56,2018,2018-02-22T14:17:00.000Z,True,2,1350,507.233,509.574,97.4461,94.789,True,False,None,Vandenberg Air Force Base Space Launch Complex 4E
+57,2018,2018-03-06T05:33:00.000Z,True,1,6092,35777.918,35794.674,0.0472,1436.081,False,False,None,Cape Canaveral Air Force Station Space Launch Complex 40
+58,2018,2018-03-30T14:13:51.000Z,True,2,9600,776.453,778.882,86.4021,100.403,True,False,None,Vandenberg Air Force Base Space Launch Complex 4E
+59,2018,2018-04-02T20:30:41.000Z,True,2,2760,203.778,356.6,51.6437,90.117,True,False,None,Cape Canaveral Air Force Station Space Launch Complex 40
+60,2018,2018-04-18T22:51:00.000Z,True,1,350,1705.852,272636.772,28.6882,9021.152,False,True,True,Cape Canaveral Air Force Station Space Launch Complex 40
+61,2018,2018-05-11T20:14:00.000Z,True,1,3750,35778.386,35794.956,0.0049,1436.1,False,True,True,Kennedy Space Center Historic Launch Complex 39A
+62,2018,2018-05-22T19:47:58.000Z,True,2,4300,746.026,749.341,86.4535,99.772,True,False,None,Vandenberg Air Force Base Space Launch Complex 4E
+63,2018,2018-06-04T04:45:00.000Z,True,2,5383.85,35776.18,35796.495,0.0459,1436.083,True,False,None,Cape Canaveral Air Force Station Space Launch Complex 40
+64,2018,2018-06-29T09:42:00.000Z,True,2,2410,227.094,386.773,51.6352,90.66,True,False,None,Cape Canaveral Air Force Station Space Launch Complex 40
+65,2018,2018-07-22T05:50:00.000Z,True,1,7076,35777.009,35795.806,0.0081,1436.087,False,True,True,Cape Canaveral Air Force Station Space Launch Complex 40
+66,2018,2018-07-25T11:39:26.000Z,True,1,9600,775.91,779.425,86.3977,100.403,False,True,True,Vandenberg Air Force Base Space Launch Complex 4E
+67,2018,2018-08-07T05:18:00.000Z,True,2,5800,35781.856,35792.431,0.0129,1436.124,True,True,True,Cape Canaveral Air Force Station Space Launch Complex 40
+68,2018,2018-09-10T04:45:00.000Z,True,1,7060,35778.053,35794.649,0.0173,1436.084,False,True,True,Cape Canaveral Air Force Station Space Launch Complex 40
+69,2018,2018-10-08T02:22:00.000Z,True,2,2800,621.565,623.481,97.8869,97.155,True,True,True,Vandenberg Air Force Base Space Launch Complex 4E
+70,2018,2018-11-15T20:46:00.000Z,True,2,3000,35780.031,35791.685,0.0365,1436.059,True,True,True,Kennedy Space Center Historic Launch Complex 39A
+71,2018,2018-12-03T18:34:00.000Z,True,3,4000,572.902,591.994,97.7337,96.322,True,True,True,Vandenberg Air Force Base Space Launch Complex 4E
+72,2018,2018-12-05T18:16:00.000Z,True,1,2573,404.129,407.407,51.6425,92.678,False,True,False,Cape Canaveral Air Force Station Space Launch Complex 40
+73,2018,2018-12-23T13:51:00.000Z,True,1,4400,20169.696,20194.062,54.9968,717.963,False,False,None,Cape Canaveral Air Force Station Space Launch Complex 40
+74,2019,2019-01-11T15:31:00.000Z,True,2,9600,775.462,779.87,86.3933,100.403,True,True,True,Vandenberg Air Force Base Space Launch Complex 4E
+75,2019,2019-02-22T01:45:00.000Z,True,3,5000,35778.569,35794.633,0.0126,1436.097,True,True,True,Cape Canaveral Air Force Station Space Launch Complex 40
+76,2019,2019-03-02T07:45:00.000Z,True,1,12259,394.367,411.911,51.6381,92.624,False,True,True,Kennedy Space Center Historic Launch Complex 39A
+
+78,2019,2019-05-04T06:48:00.000Z,True,1,2482,396.056,416.692,51.6386,92.69,False,True,True,Cape Canaveral Air Force Station Space Launch Complex 40
+79,2019,2019-05-24T02:30:00.000Z,True,3,13620,548.477,551.552,53.0029,95.65,True,True,True,Cape Canaveral Air Force Station Space Launch Complex 40
+80,2019,2019-06-12T14:17:00.000Z,True,2,1425,588.88,590.862,97.7592,96.476,True,True,True,Vandenberg Air Force Base Space Launch Complex 4E
+
+82,2019,2019-07-25T22:01:00.000Z,True,2,2227.7,396.799,414.329,51.6451,92.674,True,True,True,Cape Canaveral Air Force Station Space Launch Complex 40
+83,2019,2019-08-06T22:52:00.000Z,True,3,6500,None,None,None,None,True,False,None,Cape Canaveral Air Force Station Space Launch Complex 40
